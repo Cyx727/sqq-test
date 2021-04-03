@@ -1,7 +1,7 @@
 
 ## 这是一个链接文件
 #### link
-https://www.baidu.com
+http://ccst.jlu.edu.cn/
 
 https://github.com/sqq-hub/sqq-test/edit/main/README.md
 
