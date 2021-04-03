@@ -1,9 +1,9 @@
 
 ## 这是一个链接文件
 #### link
-http://ccst.jlu.edu.cn/
+链接至计算机学院官网 http://ccst.jlu.edu.cn/
 
-https://github.com/sqq-hub/sqq-test/blob/main/README.md
+链接至README.md https://github.com/sqq-hub/sqq-test/blob/main/README.md
 
 
 目录中的图像<br />
