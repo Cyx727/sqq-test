@@ -12,7 +12,7 @@ web中的图像
 ![baidu] (http://www.baidu.com/img/bdllogo.gif "百度logo")
 ```Java
 public static void main(String[] args){}//Java
-```C
+```c
 int main()
 {
    int a;
