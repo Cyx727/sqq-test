@@ -3,7 +3,7 @@
 #### link
 http://ccst.jlu.edu.cn/
 
-https://github.com/sqq-hub/sqq-test/edit/main/README.md
+https://github.com/sqq-hub/sqq-test/blob/main/README.md
 
 
 目录中的图像<br />
