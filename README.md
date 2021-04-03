@@ -9,7 +9,7 @@ https://github.com/sqq-hub/sqq-test/blob/main/link.md
 目录中的图像<br />
 ![image](https://github.com/sqq-hub/sqq-test/blob/main/Img/monkey.jpg)<br />
 web中的图像<br />
-![百度logo] (https://www.baidu.com/img/bd_logo1.png)
+![百度logo](https://www.baidu.com/img/bd_logo1.png)
 ```C
 int main()
 {
