@@ -9,7 +9,7 @@ https://github.com/sqq-hub/sqq-test/blob/main/README.md
 目录中的图像<br />
 ![image](https://github.com/sqq-hub/sqq-test/blob/main/Img/orange.jpg)<br />
 web中的图像<br />
-![] (https://www.baidu.com/img/bd_logo1.png)
+![百度logo](https://www.baidu.com/img/bd_logo1.png)
 ```Java
 public static void main(String[] args) {
 		System.out.println(1)；
