@@ -1,9 +1,9 @@
 
 ## 计算机专业英语
 #### Assignment
-https://www.baidu.com
+链接至百度 https://www.baidu.com
 
-连接至link.md https://github.com/sqq-hub/sqq-test/blob/main/link.md
+链接至link.md https://github.com/sqq-hub/sqq-test/blob/main/link.md
 
 
 目录中的图像<br />
