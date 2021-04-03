@@ -3,7 +3,7 @@
 #### Assignment
 https://www.baidu.com
 
-https://github.com/sqq-hub/sqq-test/edit/main/link.md
+https://github.com/sqq-hub/sqq-test/main/link.md
 
 
 目录中的图像<br />
