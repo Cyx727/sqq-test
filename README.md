@@ -57,6 +57,11 @@ int main()
 * Java
 * C#
 
+ 1. A numbered list
+ 1. A nested numbered list
+ 2. Which is numbered
+ 2. Which is numbered
+
 |学科|绩点|
 |:----:|:----:|
 |C语言程序设计|4.0|
